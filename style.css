@@ -1039,6 +1039,20 @@ h4 {
         float: left;
         margin-left: 10px;
     }
+
+    .navbar-toggle2 {
+        margin: 10px 10px 0 0;
+        border: 0px;
+    }
+
+    .navbar-toggle2 .icon-bar {
+        background-color: rgba(0, 0, 0, .5);
+        width: 26px;
+        display: block;
+        height: 2px;
+        border-radius: 1px;
+    }
+
     .bloc {
         padding-left: 0;
         padding-right: 0;
@@ -1111,6 +1125,7 @@ h4 {
 }
 .col-xs-12 img {
     width: 100%;
+    
 }
 
 }
