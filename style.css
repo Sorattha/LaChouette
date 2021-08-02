@@ -846,13 +846,14 @@ h4 {
     color: #F3976C!important;
 }
 
-.tc-white1 {
+h1 .tc-white1 {
     font-size: 30px;
     color: #FFFFFF;
 }
 
 .tc-white2 {
     font-size: 20px;
+    color: #FFFFFF;
 }
 
 .btn-atomic-tangerine {
