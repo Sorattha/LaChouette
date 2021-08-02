@@ -651,7 +651,7 @@ a[data-lightbox]:hover img {
     position: absolute;
     left: 15px;
     right: 15px;
-    bottom: 5px;
+    margin-top: 5px;
 }
 
 .close-lightbox {
@@ -1145,7 +1145,7 @@ h1 .tc-white1 {
     }
 
     .col-sm-13 img {
-        width: 90%;
+        width: 95%;
     }
 
     .col-sm-14 img {
@@ -1153,7 +1153,7 @@ h1 .tc-white1 {
     }
     
     .col-xs-12 img {
-        width: 95%;
+        width: 100%;
     }
 
     .col-sm-6 img {
